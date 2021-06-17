@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @7u1ian
-- 🎓  I'm currently a student at Hack Reactor SEI Coding Boot
+- 🎓  I'm currently a student at Hack Reactor SEI Coding Boot Camp
 - 🔱  and a US Navy veteran where I worked as an
 - 📡  Electronic Technician! 
 -  I'd like to use my growing web develop skills to make a 
